@@ -1,6 +1,5 @@
 # Creating Custom LLMs
 
-## Project Overview
 This project focuses on building and comparing simple n-gram models and a recurrent neural network (RNN) to generate realistic-sounding names from scratch. We start with bigram and trigram models, then implement an RNN for text generation to demonstrate the effectiveness of neural networks in language modeling.
 
 ## Skills Covered
