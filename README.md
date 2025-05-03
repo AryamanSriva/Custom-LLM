@@ -10,7 +10,7 @@ This project focuses on building and comparing simple n-gram models and a recurr
 - Neural Networks
 
 ## Prerequisites
-- A good understanding of Python programming
+- Python
 - Basic knowledge of natural language processing (NLP)
 - Experience with data preprocessing and handling textual data in machine learning contexts
 - Familiarity with neural networks and deep learning frameworks, such as TensorFlow or PyTorch
