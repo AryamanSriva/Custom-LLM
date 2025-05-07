@@ -12,7 +12,8 @@ This project focuses on building and comparing simple n-gram models and a recurr
 ## Prerequisites
 - Python
 - Natural language processing (NLP)
-- Familiarity with neural networks and deep learning frameworks, such as TensorFlow or PyTorch
+- TensorFlow
+- PyTorch
 
 ## Technologies Used
 - Python
