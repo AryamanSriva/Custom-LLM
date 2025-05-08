@@ -20,8 +20,6 @@ This project focuses on building and comparing simple n-gram models and a recurr
 - PyTorch
 - Matplotlib
 
----
-
 ## Project Tasks
 ### 1. Foundations of Language Modeling
 #### Task 0: Get Started
