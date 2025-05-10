@@ -25,7 +25,6 @@ This project focuses on building and comparing simple n-gram models and a recurr
 - Evaluate how well the RNN captures realistic name patterns.
 - Visualize training losses and generated text samples.
 
----
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss the changes.
